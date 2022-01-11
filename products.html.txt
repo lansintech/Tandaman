@@ -1,0 +1,860 @@
+
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+
+<title>Services &#8211; Tandaman</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Tandaman &raquo; Feed" href="http://tandaman.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Tandaman &raquo; Comments Feed" href="http://tandaman.com/comments/feed/" />
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/tandaman.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.6.7"}};
+			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='astra-theme-css-css'  href='http://tandaman.com/wp-content/themes/astra/assets/css/minified/style.min.css?ver=3.0.1' media='all' />
+<style id='astra-theme-css-inline-css'>
+html{font-size:100%;}a,.page-title{color:#ff5e14;}a:hover,a:focus{color:#1a1a1a;}body,button,input,select,textarea,.ast-button,.ast-custom-button{font-family:'Open Sans',sans-serif;font-weight:400;font-size:16px;font-size:1rem;}blockquote{color:#0f0f0f;}p,.entry-content p{margin-bottom:1em;}h1,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a,.site-title,.site-title a{font-family:'Barlow',sans-serif;font-weight:600;text-transform:capitalize;}.site-title{font-size:35px;font-size:2.1875rem;}.ast-archive-description .ast-archive-title{font-size:40px;font-size:2.5rem;}.site-header .site-description{font-size:15px;font-size:0.9375rem;}.entry-title{font-size:30px;font-size:1.875rem;}.comment-reply-title{font-size:26px;font-size:1.625rem;}.ast-comment-list #cancel-comment-reply-link{font-size:16px;font-size:1rem;}h1,.entry-content h1,.entry-content h1 a{font-size:72px;font-size:4.5rem;font-family:'Barlow',sans-serif;line-height:1;text-transform:capitalize;}h2,.entry-content h2,.entry-content h2 a{font-size:40px;font-size:2.5rem;font-family:'Barlow',sans-serif;line-height:1;text-transform:capitalize;}h3,.entry-content h3,.entry-content h3 a{font-size:32px;font-size:2rem;font-family:'Barlow',sans-serif;line-height:1;text-transform:capitalize;}h4,.entry-content h4,.entry-content h4 a{font-size:24px;font-size:1.5rem;line-height:1;}h5,.entry-content h5,.entry-content h5 a{font-size:20px;font-size:1.25rem;line-height:1;}h6,.entry-content h6,.entry-content h6 a{font-size:14px;font-size:0.875rem;line-height:1;}.ast-single-post .entry-title,.page-title{font-size:30px;font-size:1.875rem;}::selection{background-color:#ff5e14;color:#000000;}body,h1,.entry-title a,.entry-content h1,.entry-content h1 a,h2,.entry-content h2,.entry-content h2 a,h3,.entry-content h3,.entry-content h3 a,h4,.entry-content h4,.entry-content h4 a,h5,.entry-content h5,.entry-content h5 a,h6,.entry-content h6,.entry-content h6 a{color:#5a5a5a;}.tagcloud a:hover,.tagcloud a:focus,.tagcloud a.current-item{color:#000000;border-color:#ff5e14;background-color:#ff5e14;}input:focus,input[type="text"]:focus,input[type="email"]:focus,input[type="url"]:focus,input[type="password"]:focus,input[type="reset"]:focus,input[type="search"]:focus,textarea:focus{border-color:#ff5e14;}input[type="radio"]:checked,input[type=reset],input[type="checkbox"]:checked,input[type="checkbox"]:hover:checked,input[type="checkbox"]:focus:checked,input[type=range]::-webkit-slider-thumb{border-color:#ff5e14;background-color:#ff5e14;box-shadow:none;}.site-footer a:hover + .post-count,.site-footer a:focus + .post-count{background:#ff5e14;border-color:#ff5e14;}.ast-comment-meta{line-height:1.666666667;font-size:13px;font-size:0.8125rem;}.single .nav-links .nav-previous,.single .nav-links .nav-next,.single .ast-author-details .author-title,.ast-comment-meta{color:#ff5e14;}.entry-meta,.entry-meta *{line-height:1.45;color:#ff5e14;}.entry-meta a:hover,.entry-meta a:hover *,.entry-meta a:focus,.entry-meta a:focus *{color:#1a1a1a;}.ast-404-layout-1 .ast-404-text{font-size:200px;font-size:12.5rem;}.widget-title{font-size:22px;font-size:1.375rem;color:#5a5a5a;}#cat option,.secondary .calendar_wrap thead a,.secondary .calendar_wrap thead a:visited{color:#ff5e14;}.secondary .calendar_wrap #today,.ast-progress-val span{background:#ff5e14;}.secondary a:hover + .post-count,.secondary a:focus + .post-count{background:#ff5e14;border-color:#ff5e14;}.calendar_wrap #today > a{color:#000000;}.ast-pagination a,.page-links .page-link,.single .post-navigation a{color:#ff5e14;}.ast-pagination a:hover,.ast-pagination a:focus,.ast-pagination > span:hover:not(.dots),.ast-pagination > span.current,.page-links > .page-link,.page-links .page-link:hover,.post-navigation a:hover{color:#1a1a1a;}.ast-header-break-point .ast-mobile-menu-buttons-minimal.menu-toggle{background:transparent;color:#ff5e14;}.ast-header-break-point .ast-mobile-menu-buttons-outline.menu-toggle{background:transparent;border:1px solid #ff5e14;color:#ff5e14;}.ast-header-break-point .ast-mobile-menu-buttons-fill.menu-toggle{background:#ff5e14;color:#000000;}.main-header-menu .menu-link,.ast-header-custom-item a{color:#5a5a5a;}.main-header-menu .menu-item:hover > .menu-link,.main-header-menu .menu-item:hover > .ast-menu-toggle,.main-header-menu .ast-masthead-custom-menu-items a:hover,.main-header-menu .menu-item.focus > .menu-link,.main-header-menu .menu-item.focus > .ast-menu-toggle,.main-header-menu .current-menu-item > .menu-link,.main-header-menu .current-menu-ancestor > .menu-link,.main-header-menu .current-menu-item > .ast-menu-toggle,.main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#ff5e14;}.footer-adv .footer-adv-overlay{border-top-style:solid;}.wp-block-buttons.aligncenter{justify-content:center;}@media (max-width:782px){.entry-content .wp-block-columns .wp-block-column{margin-left:0px;}}@media (max-width:768px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 2.14em;}.ast-separate-container #primary,.ast-separate-container #secondary{padding:1.5em 0;}#primary,#secondary{padding:1.5em 0;margin:0;}.ast-left-sidebar #content > .ast-container{display:flex;flex-direction:column-reverse;width:100%;}.ast-author-box img.avatar{margin:20px 0 0 0;}}@media (max-width:768px){.ast-right-sidebar #primary{padding-right:0;}.ast-pagination .prev.page-numbers{padding-left:.5em;}.ast-pagination .next.page-numbers{padding-right:.5em;}}@media (min-width:769px){.ast-separate-container.ast-right-sidebar #primary,.ast-separate-container.ast-left-sidebar #primary{border:0;}.ast-separate-container .ast-comment-list li .comment-respond{padding-left:2.66666em;padding-right:2.66666em;}.ast-author-box{-js-display:flex;display:flex;}.ast-author-bio{flex:1;}.error404.ast-separate-container #primary,.search-no-results.ast-separate-container #primary{margin-bottom:4em;}}@media (min-width:769px){.ast-right-sidebar #primary{border-right:1px solid #eee;}.ast-left-sidebar #primary{border-left:1px solid #eee;}}.elementor-button-wrapper .elementor-button{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{border-radius:0;padding-top:18px;padding-right:32px;padding-bottom:18px;padding-left:32px;}.elementor-button-wrapper .elementor-button{border-color:#ff5e14;background-color:#ff5e14;}.elementor-button-wrapper .elementor-button:hover,.elementor-button-wrapper .elementor-button:focus{color:#ffffff;background-color:#ff702d;border-color:#ff702d;}.wp-block-button .wp-block-button__link,.elementor-button-wrapper .elementor-button,.elementor-button-wrapper .elementor-button:visited{color:#ffffff;}.elementor-button-wrapper .elementor-button{font-family:inherit;font-weight:600;line-height:1;text-transform:capitalize;}body .elementor-button.elementor-size-sm,body .elementor-button.elementor-size-xs,body .elementor-button.elementor-size-md,body .elementor-button.elementor-size-lg,body .elementor-button.elementor-size-xl,body .elementor-button{font-size:14px;font-size:0.875rem;}.wp-block-button .wp-block-button__link{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;border-color:#ff5e14;background-color:#ff5e14;color:#ffffff;font-family:inherit;font-weight:600;line-height:1;text-transform:capitalize;font-size:14px;font-size:0.875rem;border-radius:0;padding-top:18px;padding-right:32px;padding-bottom:18px;padding-left:32px;}.wp-block-button .wp-block-button__link:hover,.wp-block-button .wp-block-button__link:focus{color:#ffffff;background-color:#ff702d;border-color:#ff702d;}.elementor-widget-heading h1.elementor-heading-title{line-height:1;}.elementor-widget-heading h2.elementor-heading-title{line-height:1;}.elementor-widget-heading h3.elementor-heading-title{line-height:1;}.elementor-widget-heading h4.elementor-heading-title{line-height:1;}.elementor-widget-heading h5.elementor-heading-title{line-height:1;}.elementor-widget-heading h6.elementor-heading-title{line-height:1;}.menu-toggle,button,.ast-button,.ast-custom-button,.button,input#submit,input[type="button"],input[type="submit"],input[type="reset"]{border-style:solid;border-top-width:0;border-right-width:0;border-left-width:0;border-bottom-width:0;color:#ffffff;border-color:#ff5e14;background-color:#ff5e14;border-radius:0;padding-top:18px;padding-right:32px;padding-bottom:18px;padding-left:32px;font-family:inherit;font-weight:600;font-size:14px;font-size:0.875rem;line-height:1;text-transform:capitalize;}button:focus,.menu-toggle:hover,button:hover,.ast-button:hover,.ast-custom-button:hover .button:hover,.ast-custom-button:hover ,input[type=reset]:hover,input[type=reset]:focus,input#submit:hover,input#submit:focus,input[type="button"]:hover,input[type="button"]:focus,input[type="submit"]:hover,input[type="submit"]:focus{color:#ffffff;background-color:#ff702d;border-color:#ff702d;}@media (min-width:768px){.ast-container{max-width:100%;}}@media (min-width:544px){.ast-container{max-width:100%;}}@media (max-width:544px){.ast-separate-container .ast-article-post,.ast-separate-container .ast-article-single{padding:1.5em 1em;}.ast-separate-container #content .ast-container{padding-left:0.54em;padding-right:0.54em;}.ast-separate-container .comments-count-wrapper{padding:1.5em 1em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 1em;margin-bottom:1.5em;}.ast-separate-container .ast-comment-list .bypostauthor{padding:.5em;}.ast-separate-container .ast-archive-description{padding:1.5em 1em;}.ast-search-menu-icon.ast-dropdown-active .search-field{width:170px;}.ast-separate-container .comment-respond{padding:1.5em 1em;}}@media (max-width:544px){.ast-comment-list .children{margin-left:0.66666em;}.ast-separate-container .ast-comment-list .bypostauthor li{padding:0 0 0 .5em;}}@media (max-width:768px){.ast-mobile-header-stack .main-header-bar .ast-search-menu-icon{display:inline-block;}.ast-header-break-point.ast-header-custom-item-outside .ast-mobile-header-stack .main-header-bar .ast-search-icon{margin:0;}.ast-comment-avatar-wrap img{max-width:2.5em;}.comments-area{margin-top:1.5em;}.ast-separate-container .comments-count-wrapper{padding:2em 2.14em;}.ast-separate-container .ast-comment-list li.depth-1{padding:1.5em 2.14em;}.ast-separate-container .comment-respond{padding:2em 2.14em;}}@media (max-width:768px){.ast-header-break-point .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:0;}.ast-header-break-point .ast-mobile-header-stack .main-header-bar .ast-search-menu-icon.slide-search .search-form{right:-1em;}.ast-comment-avatar-wrap{margin-right:0.5em;}}@media (min-width:545px){.ast-page-builder-template .comments-area,.single.ast-page-builder-template .entry-header,.single.ast-page-builder-template .post-navigation{max-width:1240px;margin-left:auto;margin-right:auto;}}@media (max-width:768px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:48px;}h2,.entry-content h2,.entry-content h2 a{font-size:32px;}h3,.entry-content h3,.entry-content h3 a{font-size:28px;}h4,.entry-content h4,.entry-content h4 a{font-size:24px;font-size:1.5rem;}h5,.entry-content h5,.entry-content h5 a{font-size:20px;font-size:1.25rem;}h6,.entry-content h6,.entry-content h6 a{font-size:13px;font-size:0.8125rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:544px){.ast-archive-description .ast-archive-title{font-size:40px;}.entry-title{font-size:30px;}h1,.entry-content h1,.entry-content h1 a{font-size:36px;}h2,.entry-content h2,.entry-content h2 a{font-size:32px;}h3,.entry-content h3,.entry-content h3 a{font-size:28px;}h4,.entry-content h4,.entry-content h4 a{font-size:22px;font-size:1.375rem;}h5,.entry-content h5,.entry-content h5 a{font-size:18px;font-size:1.125rem;}h6,.entry-content h6,.entry-content h6 a{font-size:12px;font-size:0.75rem;}.ast-single-post .entry-title,.page-title{font-size:30px;}}@media (max-width:768px){html{font-size:91.2%;}}@media (max-width:544px){html{font-size:91.2%;}}@media (min-width:769px){.ast-container{max-width:1240px;}}@font-face {font-family: "Astra";src: url(http://tandaman.com/wp-content/themes/astra/assets/fonts/astra.woff) format("woff"),url(http://tandaman.com/wp-content/themes/astra/assets/fonts/astra.ttf) format("truetype"),url(http://tandaman.com/wp-content/themes/astra/assets/fonts/astra.svg#astra) format("svg");font-weight: normal;font-style: normal;font-display: fallback;}@media (max-width:921px) {.main-header-bar .main-header-bar-navigation{display:none;}}.ast-desktop .main-header-menu.submenu-with-border .sub-menu,.ast-desktop .main-header-menu.submenu-with-border .astra-full-megamenu-wrapper{border-color:#eaeaea;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu{border-top-width:1px;border-right-width:1px;border-left-width:1px;border-bottom-width:1px;border-style:solid;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .sub-menu{top:-1px;}.ast-desktop .main-header-menu.submenu-with-border .sub-menu .menu-link,.ast-desktop .main-header-menu.submenu-with-border .children .menu-link{border-bottom-width:1px;border-style:solid;border-color:#eaeaea;}@media (min-width:769px){.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu:hover > .sub-menu,.main-header-menu .sub-menu .menu-item.ast-left-align-sub-menu.focus > .sub-menu{margin-left:-2px;}}.ast-small-footer{border-top-style:solid;border-top-width:1px;border-top-color:#545454;}.ast-small-footer-wrap{text-align:center;}@media (max-width:920px){.ast-404-layout-1 .ast-404-text{font-size:100px;font-size:6.25rem;}}.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo .astra-logo-svg{width:50px;}.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo img{ max-width:50px;}@media (max-width:543px){.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo .astra-logo-svg{width:160px;}.ast-theme-transparent-header #masthead .site-logo-img .transparent-custom-logo img{ max-width:160px;}}@media (min-width:769px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead,body.brz-ed.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header,.ast-theme-transparent-header .ast-above-header.ast-above-header-bar{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}.ast-theme-transparent-header .main-header-menu,.ast-theme-transparent-header .main-header-menu .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .menu-item > .menu-link,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .ast-above-header-navigation a,.ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a,.ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation > ul.ast-above-header-menu > .menu-item-has-children:not(.current-menu-item) > .ast-menu-toggle,.ast-theme-transparent-header .ast-below-header-menu,.ast-theme-transparent-header .ast-below-header-menu a,.ast-header-break-point.ast-theme-transparent-header .ast-below-header-menu a,.ast-header-break-point.ast-theme-transparent-header .ast-below-header-menu{color:rgba(255,255,255,0.8);}.ast-theme-transparent-header .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .main-header-menu .menu-item:hover > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items a:hover,.ast-theme-transparent-header .main-header-menu .focus > .menu-link,.ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#ff5e14;}@media (max-width:768px){.ast-theme-transparent-header #masthead{position:absolute;left:0;right:0;}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{background:none;}body.elementor-editor-active.ast-theme-transparent-header #masthead,.fl-builder-edit .ast-theme-transparent-header #masthead,body.vc_editor.ast-theme-transparent-header #masthead,body.brz-ed.ast-theme-transparent-header #masthead{z-index:0;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .custom-mobile-logo-link{display:none;}.ast-header-break-point.ast-replace-site-logo-transparent.ast-theme-transparent-header .transparent-custom-logo{display:inline-block;}.ast-theme-transparent-header .ast-above-header,.ast-theme-transparent-header .ast-above-header.ast-above-header-bar{background-image:none;background-color:transparent;}.ast-theme-transparent-header .ast-below-header{background-image:none;background-color:transparent;}}@media (max-width:768px){.ast-theme-transparent-header .main-header-menu,.ast-theme-transparent-header .main-header-menu .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .menu-item > .menu-link,.ast-theme-transparent-header .ast-masthead-custom-menu-items,.ast-theme-transparent-header .ast-masthead-custom-menu-items a,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .menu-item > .ast-menu-toggle{color:#1a1a1a;}.ast-theme-transparent-header .main-header-menu .menu-item:hover > .menu-link,.ast-theme-transparent-header .main-header-menu .menu-item:hover > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .ast-masthead-custom-menu-items a:hover,.ast-theme-transparent-header .main-header-menu .focus > .menu-link,.ast-theme-transparent-header .main-header-menu .focus > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header .main-header-menu .current-menu-ancestor > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .menu-link,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-item > .ast-menu-toggle,.ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .current-menu-ancestor > .ast-menu-toggle{color:#ff5e14;}}.ast-theme-transparent-header .main-header-bar,.ast-theme-transparent-header.ast-header-break-point .main-header-bar{border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:rgba(255,255,255,0.08);}.ast-breadcrumbs .trail-browse,.ast-breadcrumbs .trail-items,.ast-breadcrumbs .trail-items li{display:inline-block;margin:0;padding:0;border:none;background:inherit;text-indent:0;}.ast-breadcrumbs .trail-browse{font-size:inherit;font-style:inherit;font-weight:inherit;color:inherit;}.ast-breadcrumbs .trail-items{list-style:none;}.trail-items li::after{padding:0 0.3em;content:"\00bb";}.trail-items li:last-of-type::after{display:none;}h1,.entry-content h1,h2,.entry-content h2,h3,.entry-content h3,h4,.entry-content h4,h5,.entry-content h5,h6,.entry-content h6{color:#1a1a1a;}.elementor-widget-heading .elementor-heading-title{margin:0;}.elementor-post.elementor-grid-item.hentry{margin-bottom:0;}.woocommerce div.product .elementor-element.elementor-products-grid .related.products ul.products li.product,.elementor-element .elementor-wc-products .woocommerce[class*='columns-'] ul.products li.product{width:auto;margin:0;float:none;}.ast-left-sidebar .elementor-section.elementor-section-stretched,.ast-right-sidebar .elementor-section.elementor-section-stretched{max-width:100%;left:0 !important;}.ast-header-break-point .main-header-bar{border-bottom-width:0px;border-bottom-color:#f2f2f2;}@media (min-width:769px){.main-header-bar{border-bottom-width:0px;border-bottom-color:#f2f2f2;}}.ast-flex{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}.main-header-bar{padding:1em 0;}.ast-site-identity{padding:0;}.header-main-layout-1 .ast-flex.main-header-container, .header-main-layout-3 .ast-flex.main-header-container{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}.header-main-layout-1 .ast-flex.main-header-container, .header-main-layout-3 .ast-flex.main-header-container{-webkit-align-content:center;-ms-flex-line-pack:center;align-content:center;-webkit-box-align:center;-webkit-align-items:center;-moz-box-align:center;-ms-flex-align:center;align-items:center;}
+</style>
+<link rel='stylesheet' id='astra-google-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%7CBarlow%3A600&#038;display=fallback&#038;ver=3.0.1' media='all' />
+<link rel='stylesheet' id='wp-block-library-css'  href='http://tandaman.com/wp-includes/css/dist/block-library/style.min.css?ver=5.6.7' media='all' />
+<link rel='stylesheet' id='hfe-style-css'  href='http://tandaman.com/wp-content/plugins/header-footer-elementor/assets/css/header-footer-elementor.css?ver=1.5.4' media='all' />
+<link rel='stylesheet' id='elementor-icons-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.9.1' media='all' />
+<link rel='stylesheet' id='elementor-animations-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.0.16' media='all' />
+<link rel='stylesheet' id='elementor-frontend-legacy-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/css/frontend-legacy.min.css?ver=3.0.16' media='all' />
+<link rel='stylesheet' id='elementor-frontend-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.0.16' media='all' />
+<link rel='stylesheet' id='elementor-post-1182-css'  href='http://tandaman.com/wp-content/uploads/elementor/css/post-1182.css?ver=1610827875' media='all' />
+<link rel='stylesheet' id='font-awesome-5-all-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=3.0.16' media='all' />
+<link rel='stylesheet' id='font-awesome-4-shim-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=3.0.16' media='all' />
+<link rel='stylesheet' id='elementor-post-72-css'  href='http://tandaman.com/wp-content/uploads/elementor/css/post-72.css?ver=1612306524' media='all' />
+<link rel='stylesheet' id='hfe-widgets-style-css'  href='http://tandaman.com/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.5.4' media='all' />
+<link rel='stylesheet' id='elementor-post-1049-css'  href='http://tandaman.com/wp-content/uploads/elementor/css/post-1049.css?ver=1612303011' media='all' />
+<link rel='stylesheet' id='google-fonts-1-css'  href='https://fonts.googleapis.com/css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;ver=5.6.7' media='all' />
+<link rel='stylesheet' id='elementor-icons-shared-0-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.12.0' media='all' />
+<link rel='stylesheet' id='elementor-icons-fa-solid-css'  href='http://tandaman.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.12.0' media='all' />
+<!--[if IE]>
+<script src='http://tandaman.com/wp-content/themes/astra/assets/js/minified/flexibility.min.js?ver=3.0.1' id='astra-flexibility-js'></script>
+<script id='astra-flexibility-js-after'>
+flexibility(document.documentElement);
+</script>
+<![endif]-->
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=3.0.16' id='font-awesome-4-shim-js'></script>
+<link rel="https://api.w.org/" href="http://tandaman.com/wp-json/" /><link rel="alternate" type="application/json" href="http://tandaman.com/wp-json/wp/v2/pages/72" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://tandaman.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://tandaman.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.6.7" />
+<link rel="canonical" href="http://tandaman.com/services/" />
+<link rel='shortlink' href='http://tandaman.com/?p=72' />
+<link rel="alternate" type="application/json+oembed" href="http://tandaman.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftandaman.com%2Fservices%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://tandaman.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Ftandaman.com%2Fservices%2F&#038;format=xml" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>		<style id="wp-custom-css">
+			/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+		</style>
+		</head>
+
+<body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="page-template-default page page-id-72 ehf-footer ehf-template-astra ehf-stylesheet-astra ast-desktop ast-page-builder-template ast-no-sidebar astra-3.0.1 ast-header-custom-item-inside ast-single-post ast-inherit-site-logo-transparent ast-theme-transparent-header elementor-default elementor-kit-1182 elementor-page elementor-page-72">
+<div 
+class="hfeed site" id="page">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+			<header
+		class="site-header header-main-layout-1 ast-primary-menu-enabled ast-hide-custom-menu-mobile ast-menu-toggle-icon ast-mobile-header-inline" id="masthead" itemtype="https://schema.org/WPHeader" itemscope="itemscope" itemid="#masthead"		>
+			
+<div class="main-header-bar-wrap">
+	<div class="main-header-bar">
+				<div class="ast-container">
+
+			<div class="ast-flex main-header-container">
+				
+		<div class="site-branding">
+			<div 
+			class="ast-site-identity" itemtype="https://schema.org/Organization" itemscope="itemscope"			>
+							</div>
+		</div>
+
+		<!-- .site-branding -->
+				<div class="ast-mobile-menu-buttons">
+
+			
+					<div class="ast-button-wrap">
+			<button type="button" class="menu-toggle main-header-menu-toggle  ast-mobile-menu-buttons-minimal "  aria-controls='primary-menu' aria-expanded='false'>
+				<span class="screen-reader-text">Main Menu</span>
+				<span class="menu-toggle-icon"></span>
+							</button>
+		</div>
+			
+			
+		</div>
+			<div class="ast-main-header-bar-alignment"><div class="main-header-bar-navigation"><nav class="ast-flex-grow-1 navigation-accessibility" id="site-navigation" aria-label="Site Navigation" itemtype="https://schema.org/SiteNavigationElement" itemscope="itemscope"><div class="main-navigation"><ul id="primary-menu" class="main-header-menu ast-nav-menu ast-flex ast-justify-content-flex-end  submenu-with-border"><li id="menu-item-75" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-75"><a href="http://tandaman.com/" class="menu-link">Home</a></li>
+<li id="menu-item-80" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-80"><a href="http://tandaman.com/about/" class="menu-link">About</a></li>
+<li id="menu-item-81" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-72 current_page_item menu-item-81"><a href="http://tandaman.com/services/" aria-current="page" class="menu-link">Product and Services</a></li>
+<li id="menu-item-83" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-83"><a href="http://tandaman.com/projects/" class="menu-link">Projects</a></li>
+<li id="menu-item-82" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-82"><a href="http://tandaman.com/contact-us/" class="menu-link">Contact Us</a></li>
+			<li class="ast-masthead-custom-menu-items widget-custom-menu-item">
+				<div class="ast-header-widget-area"></div>			</li>
+			</ul></div></nav></div></div>			</div><!-- Main Header Container -->
+		</div><!-- ast-row -->
+			</div> <!-- Main Header Bar -->
+</div> <!-- Main Header Bar Wrap -->
+		</header><!-- #masthead -->
+			<div id="content" class="site-content">
+		<div class="ast-container">
+		
+
+	<div id="primary" class="content-area primary">
+
+		
+					<main id="main" class="site-main">
+				<article
+class="post-72 page type-page status-publish ast-article-single" id="post-72" itemtype="https://schema.org/CreativeWork" itemscope="itemscope">
+		<header class="entry-header ast-header-without-markup">
+		
+			</header><!-- .entry-header -->
+
+	<div class="entry-content clear" 
+		itemprop="text"	>
+
+		
+				<div data-elementor-type="wp-post" data-elementor-id="72" class="elementor elementor-72" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-2ba4974 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2ba4974" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0cb057b" data-id="0cb057b" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-fcd035e elementor-widget elementor-widget-heading" data-id="fcd035e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h1 class="elementor-heading-title elementor-size-default">Products and services</h1>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-51e1b1d4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51e1b1d4" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-51fd9fcc" data-id="51fd9fcc" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-1dedf85b elementor-widget elementor-widget-heading" data-id="1dedf85b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">OUR PRODUCTS</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3adc8e5b elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3adc8e5b" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3ea2ffdc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ea2ffdc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-54c61cff" data-id="54c61cff" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-625a0119 elementor-widget elementor-widget-image" data-id="625a0119" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="576" src="http://tandaman.com/wp-content/uploads/2021/02/seals-1024x576.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/seals-1024x576.png 1024w, http://tandaman.com/wp-content/uploads/2021/02/seals-300x169.png 300w, http://tandaman.com/wp-content/uploads/2021/02/seals-768x432.png 768w, http://tandaman.com/wp-content/uploads/2021/02/seals.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-55b34add elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="55b34add" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">SEALS</h4><p class="elementor-image-box-description">
+Tandman Seals has been working side-by-side with customers all over the country, providing them with the best solution to any sealing requirement. We are a full service provider of sealing components, with an ever-expanding inventory of unique parts. 
+The business of the company is the importation of ISO 9002 Certified manufactured mechanical seals at a substantially reduced cost – this compared to other suppliers of mechanical seals in Nigeria. Many of our clients are opting for equivalent seals to the branded mechanical seal manufacturers, as they benefit by receiving quality seals at substantial savings.
+Our range of mechanical seals is the widest available in today’s market, variety of elastomer and face combinations all seals suited to numerous applications.
+We carry comprehensive stock of Mechanical Seals for replacement in most type’s of pumps including; centrifugal, sewage and submersible dewatering pumps. This translates into immediate service to our clients.
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-1532696a" data-id="1532696a" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-547b71ba elementor-widget elementor-widget-image" data-id="547b71ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="768" height="432" src="http://tandaman.com/wp-content/uploads/2021/02/gears3.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/gears3.png 768w, http://tandaman.com/wp-content/uploads/2021/02/gears3-300x169.png 300w" sizes="(max-width: 768px) 100vw, 768px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2f954968 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="2f954968" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">GEARS AND MOTORS AND DRIVES</h4><p class="elementor-image-box-description">
+Gear units and gear motors are very common in every industrial set up for generation and transmission of mechanical power. Tandaman offers upgrade and direct replacement for your gear units and drives.
+Our products range in this division includes a wide selection of geared motors, electric motors, industrial gears units, frequency inverters, motor starters and frequency inverters for decentralized drive control all in various sizes and versions.
+Do you need extremely large torques for extremely large movements? We offer full range of industrial gear units with combine force, quality and durability. Our well-trained field engineers offer turnkey solutions with a focus of solving problems even under difficult and rough conditions. This includes the conveying and processing of raw materials as well as the energy, timber, mineral industries and process manufacturing. Our industrial gear units meet all of your customer's technical requirements in each of these application areas.
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-cd4bdb7" data-id="cd4bdb7" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-121f5a3 elementor-widget elementor-widget-image" data-id="121f5a3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="512" src="http://tandaman.com/wp-content/uploads/2021/02/adhesives.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/adhesives.png 1024w, http://tandaman.com/wp-content/uploads/2021/02/adhesives-300x150.png 300w, http://tandaman.com/wp-content/uploads/2021/02/adhesives-768x384.png 768w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3b937c60 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3b937c60" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">MATERIAL PROCESSING</h4><p class="elementor-image-box-description">
+At Tandaman together with our customers and partners, we develop customized adhesive solutions – no matter how complex the application requirements may be. We choose suitable products for your specific application and then offer comprehensive training, so you know all about the range of industrial adhesive we offer.
+One particular strength when it comes to our industrial Adhesive division is our people and their ability to work across many industries in the engineering of adhesive, detergent and dye applications for our customers. We at Tandaman we believe in complete teamwork and put our success in the success of our enterprise. We have the required zeal and passion that has resulted into the coming of quality products and services for the industry.
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-cbfe0d1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="cbfe0d1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-ba6f491" data-id="ba6f491" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ea4deab elementor-widget elementor-widget-image" data-id="ea4deab" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="860" height="701" src="http://tandaman.com/wp-content/uploads/2021/02/welding.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/welding.png 860w, http://tandaman.com/wp-content/uploads/2021/02/welding-300x245.png 300w, http://tandaman.com/wp-content/uploads/2021/02/welding-768x626.png 768w" sizes="(max-width: 860px) 100vw, 860px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a93329f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a93329f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">WELDING SOLUTIONS</h4><p class="elementor-image-box-description">Tandaman products range from welding electrodes(mild steel,stainless steel and low hydrogen electrodes) and low hydrogen electrodes and varieties of welding wires like SAW,MIG,FCW(Open Arc an Gas shielded) and also welding maintenance services in various industries like cement,sugar,power,mining, chemical etc.  
+At the core of our business model is our ability to deliver full end-to-end gas and welding solutions to our clients, making their processes more efficient, and saving them money.
+Global partnerships with the world’s leading welding and gas companies enable us to deliver the highest quality products in the market at extremely competitive prices – all backed by a committed, hard-working and experienced team of professionals.
+We are one of the few Nigerian companies to offer a complete range of proprietary welding equipment, gas and associated products, in the fields of MMA ARC, MIG/MAG, TIGPlasma Cutting, Welding Gases, Abrasives, Safety Equipment and Consumables.
+Furthermore, we are able to back our products up with specialist service centres situated around the country providing superior after-sales support services. With an efficient supply chain spanning throughout the country.
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-541e162" data-id="541e162" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-980a42c elementor-widget elementor-widget-image" data-id="980a42c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="500" src="http://tandaman.com/wp-content/uploads/2021/02/electric-motors.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/electric-motors.png 500w, http://tandaman.com/wp-content/uploads/2021/02/electric-motors-300x300.png 300w, http://tandaman.com/wp-content/uploads/2021/02/electric-motors-150x150.png 150w" sizes="(max-width: 500px) 100vw, 500px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-232f3fd elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="232f3fd" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">ELECTRIC MOTORS</h4><p class="elementor-image-box-description">
+Tandaman Nigeria Limited is one of the largest wholesale distributors of electric motors. Tandaman is a full-line independent motor distributor and we have collaborated with the leaders in the motor industry including major global brands like ABB, Siemens, Brook Crompton and Weg to provide our customers with the best motor selection available.
+
+At Tandaman, our motor specialists are well equipped to help you with all your new and replacement motor needs. Our expertise means you get the answers you need to all of your questions about electric motors for the HVAC & Refrigeration industry, and commercial and industrial markets. We supply industrial type Electric Motors, Variable Speed Drives, and Gearboxes in the Nigerian Market. We aim to keep our customers well satisfied with exceptional product quality, dynamic solutions and extraordinary customer service. 
+You can count on Tandaman Nigeria Limited for solutions and support through the close alliances we have established with the manufacturers we represent. Because we know your business cannot afford down time, we are committed to processing your order quickly, from our own extensive on-site inventory or direct through our vast network of electric motor suppliers.
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-1143405 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1143405" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f58fbb1" data-id="f58fbb1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-b15512a elementor-widget elementor-widget-image" data-id="b15512a" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="329" src="http://tandaman.com/wp-content/uploads/2021/02/belt-conveyors-.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/belt-conveyors-.jpg 500w, http://tandaman.com/wp-content/uploads/2021/02/belt-conveyors--300x197.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6e35285 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="6e35285" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">CONVEYOR BELTS</h4><p class="elementor-image-box-description">
+Tandaman is associated high -quality Polyurethane belting for conveyor belts. The conveyor belt market is growing. The global conveyor belting market is poised to grow at a CAGR of 3% annually to reach an estimated value of US $6.3 billion by 2023. Why? Conveyor belts improve productivity to reduce labor costs in several industry sectors including airlines, agricultural, mining and manufacturing.
+To assist in your sourcing efforts and understanding of the conveyor-belting marketplace, we at Tandaman have compiled lists of top conveyor belt suppliers. Whom can provide belts to meet lightweight, medium, and heavy-duty applications.</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-50349d1" data-id="50349d1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c669c5f elementor-widget elementor-widget-image" data-id="c669c5f" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="973" height="615" src="http://tandaman.com/wp-content/uploads/2021/02/coupling-types.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/coupling-types.jpg 973w, http://tandaman.com/wp-content/uploads/2021/02/coupling-types-300x190.jpg 300w, http://tandaman.com/wp-content/uploads/2021/02/coupling-types-768x485.jpg 768w" sizes="(max-width: 973px) 100vw, 973px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-eef3b0f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="eef3b0f" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">COUPLINGS</h4><p class="elementor-image-box-description">Tadaman supplies a wide range of couplings for use in industrial, mining, petroleum and agricultural applications, and include Camlock couplings, Claw couplings, Pipe Couplings and Split Flange Couplings.
+Our fastening solutions are interchangeable with other couplings and are widely used with all types of rubber hoses, PVC hoses and composite hoses.
+With a large industrial customer base that depends on faster service, our extensive stock holding helps to ensure immediate availability. Tandaman supplies throughout the Nigeria with 24 to 48 hours, a trial would convince you.
+
+Extensive range of couplings now available from Tandaman:
+Aluminium Camlock couplings
+Poly Propylene Camlock couplings
+Stainless Steel Camlock couplings
+Camlock Reducers
+Camlock Spool Adaptors
+Brass Camlock couplings
+Flanged Camlock couplings
+Socketweld & Buttweld Camlock couplings
+3 Arm Camlock couplings
+DIN Camlock couplings
+Claw couplings with hose tails
+Claw couplings with female BSP threads
+Claw couplings with male BSP threads
+Pipe Couplings
+Split Flange Couplings
+
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2b92460" data-id="2b92460" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-17558ba elementor-widget elementor-widget-image" data-id="17558ba" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="512" height="298" src="http://tandaman.com/wp-content/uploads/2021/02/power-transmission-belt.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/power-transmission-belt.png 512w, http://tandaman.com/wp-content/uploads/2021/02/power-transmission-belt-300x175.png 300w" sizes="(max-width: 512px) 100vw, 512px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a0302b3 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a0302b3" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">POWER TRANSMISSION BELTS</h4><p class="elementor-image-box-description">
+Tandaman deals in power transmission belts, which are tailor-made to suit specific industry and application needs or machine designs. We offer three different traction layer materials, used by three different belt concepts, for open drive, tangential drive, multiple pulley drive, live-roller drive, and double-sided power transmission.
+
+Over the course of many decades, however, our portfolio was adapted and expanded to meet current demands. Today, for example, we not only offer neoprene and polyurethane timing belts as standard supply but can also offer them as bespoke products.
+Moreover, our portfolio also includes timing belt pulleys, which are increasingly custom built to drawings for you, the customer.
+
+TANDAMAN offers a complete assortment of both standard and high performance transmission belts, which can be installed in many different applications. A good example our our partner SKF Xtra Power Transmission belts, for example, are suitable for all kinds of industrial applications and some agricultural machines. These belts have been designed to increase the service life of your application and deliver up to 40% more power than standard wrapped belts.
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-45125ca elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="45125ca" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-97037ea" data-id="97037ea" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-6cf7377 elementor-widget elementor-widget-image" data-id="6cf7377" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="768" height="432" src="http://tandaman.com/wp-content/uploads/2021/02/hydraulicspneumatics_3427_url_1_1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/hydraulicspneumatics_3427_url_1_1.png 768w, http://tandaman.com/wp-content/uploads/2021/02/hydraulicspneumatics_3427_url_1_1-300x169.png 300w" sizes="(max-width: 768px) 100vw, 768px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-b97e868 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="b97e868" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">HYDRAULICS AND PNEUMATICS</h4><p class="elementor-image-box-description">
+We supply Hydraulic and Pneumatics products like cylinder fittings, actuators, hoses, seals etc for your projects and manufacturing processes. From single components to fully engineered, custom pneumatic systems, Tandaman is your end-to-end supplier of pneumatic solutions.
+We offer the world's leading pneumatic brands, such as Aventics, Bosch Rexroth and Omal, with fast delivery and complete aftersales support across Nigeria.
+With full design, engineering and fabrication capabilities to deliver turnkey, tailored pneumatic systems Complete range of off-the-shelf pneumatic components
+Technologies for any industry, from assembly, packaging and manufacturing to mobile machinery and process plants. 
+Fast lead and delivery times through our African network of over 40 branches and distributors
+ATEX-certified technologies for explosive environments
+As for Hydraulic Hose Tanadaman supply hydraulic hoses to cater for nearly any industrial or mobile application - from low to extreme pressure ranges.
+Many of which are constructed from a combination of synthetic rubber tubes, high tensile steel spirals or braids, as well as synthetic rubber covers. Some of the brand we supply includes KTR, Walterscheid and Intertraco.
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-092981b" data-id="092981b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9832025 elementor-widget elementor-widget-image" data-id="9832025" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="820" height="506" src="http://tandaman.com/wp-content/uploads/2021/02/pumps.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/pumps.jpg 820w, http://tandaman.com/wp-content/uploads/2021/02/pumps-300x185.jpg 300w, http://tandaman.com/wp-content/uploads/2021/02/pumps-768x474.jpg 768w" sizes="(max-width: 820px) 100vw, 820px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ae6bdc7 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ae6bdc7" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">PUMPS</h4><p class="elementor-image-box-description">Tandaman we understand that Pumps are highly crucial to the successful fluid displacement during all manufacturing process. We are a leading pump supply company in Nigeria and a distributor of Wilo pump as well as pumping solutions from other world-class manufacturers, our primary focus is on delivering turnkey solutions for all your pumping requirements. This includes pump sales, pump servicing, repairs and maintenance, training, pump rentals, and installations for almost any application you can think of.
+We are committed to providing service excellence at all times to ensure optimal pump operations throughout Nigeria with a wide range of pump products to support the core markets of the paper and pulp, water and wastewater, fertilizer and sugar industries – to name a few. From high-pressure turbine and centrifugal pumps, water pumps, and submersible drainage and dewatering pumps, to diaphragm pumps, dosing pumps, hydraulic pumps, and diesel and electric self-priming pumps, Tandaman carries the most comprehensive line of pumps from stock and readily available to meet your needs.
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3c98372 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3c98372" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-107f9d6" data-id="107f9d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-23fb199 elementor-widget elementor-widget-image" data-id="23fb199" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="331" src="http://tandaman.com/wp-content/uploads/2021/02/hand-tools-500x500-1.png" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/hand-tools-500x500-1.png 500w, http://tandaman.com/wp-content/uploads/2021/02/hand-tools-500x500-1-300x199.png 300w" sizes="(max-width: 500px) 100vw, 500px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3abbaa1 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="3abbaa1" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">INDUSTRIAL TOOLS</h4><p class="elementor-image-box-description">
+Tandaman offers all the essential tools required for a safe and productive environment within an engineering workshop.Our aims to become THE trusted source for your industrial cutting equipment and machine shop supply needs. Our goal as a tool supply company is simple: offer reasonable prices on the highest quality industrial tools designed to lower your costs of production! We pride ourselves on offering only the best in friendly, knowledgeable service—and with products from manufacturers you know and trust, you can be confident in our ability to bring exceptional value machinist supplies and tooling to your company.
+Ranging from hand, power and cutting tools, we supply products that have been carefully selected by experienced tools and maintenance specialists to ensure you receive the best quality service and value in the marketplace, whilst ensuring your safety. 
+
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a22a03d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a22a03d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-aa36eed" data-id="aa36eed" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-68ea50c elementor-widget elementor-widget-heading" data-id="68ea50c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">OUR SERVICES</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bbae54f elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="bbae54f" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-c01b8bf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c01b8bf" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-fe53f77" data-id="fe53f77" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-af37272 elementor-widget elementor-widget-image" data-id="af37272" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="500" height="750" src="http://tandaman.com/wp-content/uploads/2021/02/mechanics.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/mechanics.jpeg 500w, http://tandaman.com/wp-content/uploads/2021/02/mechanics-200x300.jpeg 200w" sizes="(max-width: 500px) 100vw, 500px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-ea574f7 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="ea574f7" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title"> MECHANICAL SUPPORT</h4><p class="elementor-image-box-description">
+Tandamans mechanical support
+services include bearing
+replacement; mounting and
+dismounting, pump installation &
+maintenance,rollers/chain replacement
+etc</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-9eaca7b" data-id="9eaca7b" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-5edb7a5 elementor-widget elementor-widget-image" data-id="5edb7a5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1024" height="682" src="http://tandaman.com/wp-content/uploads/2021/02/vulcanize-1024x682.jpeg" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/vulcanize-1024x682.jpeg 1024w, http://tandaman.com/wp-content/uploads/2021/02/vulcanize-300x200.jpeg 300w, http://tandaman.com/wp-content/uploads/2021/02/vulcanize-768x512.jpeg 768w, http://tandaman.com/wp-content/uploads/2021/02/vulcanize-1536x1024.jpeg 1536w, http://tandaman.com/wp-content/uploads/2021/02/vulcanize.jpeg 1880w" sizes="(max-width: 1024px) 100vw, 1024px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a7db24c elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a7db24c" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">VULCANISING</h4><p class="elementor-image-box-description">
+
+Tandaman is equipped with
+professionals for your Hot & Cold
+splicing,plant survey,roller skirting
+,belt cleaning services etc
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-14f63bd" data-id="14f63bd" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dc82e0d elementor-widget elementor-widget-image" data-id="dc82e0d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="600" height="400" src="http://tandaman.com/wp-content/uploads/2021/02/Car-Diagnostic-Scan-2.jpg" class="attachment-large size-large" alt="" loading="lazy" srcset="http://tandaman.com/wp-content/uploads/2021/02/Car-Diagnostic-Scan-2.jpg 600w, http://tandaman.com/wp-content/uploads/2021/02/Car-Diagnostic-Scan-2-300x200.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-a05c9ed elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="a05c9ed" data-element_type="widget" data-widget_type="image-box.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-image-box-wrapper"><div class="elementor-image-box-content"><h4 class="elementor-image-box-title">INSTRUMENTS AND AUTOMATION</h4><p class="elementor-image-box-description">
+Tandaman offers Calibration of
+fields instruments, penumatic
+cylinder servicing, fire alarm installation
+and pressure transmitter
+installation
+</p></div></div>		</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-66d1ea4f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="66d1ea4f" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5eaeb806" data-id="5eaeb806" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-2f955ed3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="2f955ed3" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-443b5f91 elementor-widget elementor-widget-heading" data-id="443b5f91" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">We Provide the Best Service in Industry​</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-49bcc5a5 elementor-widget elementor-widget-text-editor" data-id="49bcc5a5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Add a line that tells users how easily they can get in touch with you</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-43aec095 elementor-align-center elementor-widget elementor-widget-button" data-id="43aec095" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="http://tandaman.com/contact-us/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+				<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path d="M 18.71875 6.78125 L 17.28125 8.21875 L 24.0625 15 L 4 15 L 4 17 L 24.0625 17 L 17.28125 23.78125 L 18.71875 25.21875 L 27.21875 16.71875 L 27.90625 16 L 27.21875 15.28125 Z"></path></svg>			</span>
+						<span class="elementor-button-text">Contact Us Today</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		
+		
+		
+	</div><!-- .entry-content .clear -->
+
+	
+	
+</article><!-- #post-## -->
+
+			</main><!-- #main -->
+			
+		
+	</div><!-- #primary -->
+
+
+	</div> <!-- ast-container -->
+	</div><!-- #content -->
+		<footer itemtype="https://schema.org/WPFooter" itemscope="itemscope" id="colophon" role="contentinfo">
+			<div class='footer-width-fixer'>		<div data-elementor-type="wp-post" data-elementor-id="1049" class="elementor elementor-1049" data-elementor-settings="[]">
+						<div class="elementor-inner">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-f808196 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f808196" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-afb824c" data-id="afb824c" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-c12b852 elementor-widget elementor-widget-image" data-id="c12b852" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="1" height="1" src="http://tandaman.com/wp-content/uploads/2021/01/construction-company-logo-light-text-1.png" class="attachment-large size-large" alt="" loading="lazy" />											</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0c8a02c elementor-widget elementor-widget-text-editor" data-id="0c8a02c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p> At Tandaman Nigeria Limited, we are committed to not just promptly delivering the best of engineering services but also, provide your production with speedy solutions to decrease your downtime and increasing your productivity.</p></div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4071a7f" data-id="4071a7f" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-138725c elementor-widget elementor-widget-heading" data-id="138725c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Our Company</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7e2cfe5 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="7e2cfe5" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/about/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Who We Are</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Services We Provide</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Products</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5c43606" data-id="5c43606" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-ec17bd9 elementor-widget elementor-widget-heading" data-id="ec17bd9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Our Products</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8f08b67 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8f08b67" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Seals</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Gear Motors and drives</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Material Processing</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Welding Solutions</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Electric Motors</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Conveyor Belts</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Couplings</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Power Transmission Belts</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Industrial Tools</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Hydraulics and Pneumatics</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://tandaman.com/services/">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-angle-right"></i>						</span>
+										<span class="elementor-icon-list-text">Pumps</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-6b507e1" data-id="6b507e1" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-dbd6d47 elementor-widget elementor-widget-heading" data-id="dbd6d47" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Contact Details</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8730846 elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="8730846" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">No 15 Adenle St, Agege, Lagos</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">0902 563 9619</span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">info@tandaman.com</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-d33b472 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="d33b472" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+							<div class="elementor-row">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-cb359bb" data-id="cb359bb" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-9dae370 elementor-widget elementor-widget-copyright" data-id="9dae370" data-element_type="widget" data-widget_type="copyright.default">
+				<div class="elementor-widget-container">
+					<div class="hfe-copyright-wrapper">
+							<span>Copyright © 2022 Tandaman</span>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4c70a03" data-id="4c70a03" data-element_type="column">
+			<div class="elementor-column-wrap elementor-element-populated">
+							<div class="elementor-widget-wrap">
+						<div class="elementor-element elementor-element-4e8f5b3 elementor-widget elementor-widget-copyright" data-id="4e8f5b3" data-element_type="widget" data-widget_type="copyright.default">
+				<div class="elementor-widget-container">
+					<div class="hfe-copyright-wrapper">
+							<span>Powered by L A N S I N T E C H</span>
+					</div>
+				</div>
+				</div>
+						</div>
+					</div>
+		</div>
+								</div>
+					</div>
+		</section>
+						</div>
+						</div>
+					</div>
+		</div>		</footer>
+		</div><!-- #page -->
+<script id='astra-theme-js-js-extra'>
+var astra = {"break_point":"921","isRtl":""};
+</script>
+<script src='http://tandaman.com/wp-content/themes/astra/assets/js/minified/style.min.js?ver=3.0.1' id='astra-theme-js-js'></script>
+<script src='http://tandaman.com/wp-includes/js/wp-embed.min.js?ver=5.6.7' id='wp-embed-js'></script>
+<script src='http://tandaman.com/wp-includes/js/jquery/jquery.min.js?ver=3.5.1' id='jquery-core-js'></script>
+<script src='http://tandaman.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.0.16' id='elementor-frontend-modules-js'></script>
+<script src='http://tandaman.com/wp-includes/js/jquery/ui/core.min.js?ver=1.12.1' id='jquery-ui-core-js'></script>
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.8.1' id='elementor-dialog-js'></script>
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.3.6' id='swiper-js'></script>
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/lib/share-link/share-link.min.js?ver=3.0.16' id='share-link-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"3.0.16","is_static":false,"legacyMode":{"elementWrappers":true},"urls":{"assets":"http:\/\/tandaman.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":72,"title":"Services%20%E2%80%93%20Tandaman","excerpt":"","featuredImage":false}};
+</script>
+<script src='http://tandaman.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.0.16' id='elementor-frontend-js'></script>
+<script src='http://tandaman.com/wp-includes/js/underscore.min.js?ver=1.8.3' id='underscore-js'></script>
+<script id='wp-util-js-extra'>
+var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
+</script>
+<script src='http://tandaman.com/wp-includes/js/wp-util.min.js?ver=5.6.7' id='wp-util-js'></script>
+<script id='wpforms-elementor-js-extra'>
+var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"};
+</script>
+<script src='http://tandaman.com/wp-content/plugins/wpforms-lite/assets/js/integrations/elementor/frontend.min.js?ver=1.6.4.1' id='wpforms-elementor-js'></script>
+			<script>
+			/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+			</script>
+				</body>
+</html>
